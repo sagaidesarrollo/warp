@@ -28,11 +28,21 @@ La aplicación ya está configurada en Favoritos para su rápido acceso.
 
  
 
+## [1.0.1] - GENERAL- 2021-01-04 
+ 
+
+### Agregado 
+  
+### Cambiado 
+ 
+### Arreglado 
+
+No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 )
+  
  
 
 ## [1.0.0] - GENERAL- 2020-12-18 
 
- 
 
 ### Agregado 
 
