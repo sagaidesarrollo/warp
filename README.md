@@ -32,11 +32,13 @@ La aplicación ya está configurada en Favoritos para su rápido acceso.
  
 
 ### Agregado 
+Se hace script # x0045  >  EscribrirEntidadINX para actualizar a diario el campo Entidad Gestion.
   
 ### Cambiado 
+Se mejoro la performance del campo Entidad Gestion.
+Se audita el campo Entidad Gestion
  
 ### Arreglado 
-
 No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 )
   
  
