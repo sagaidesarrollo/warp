@@ -1,14 +1,22 @@
-## [iRis Warp 1.0.1] - 2021-01-05
+## [iRis Warp 1.0.x]
 
-### Arreglado 
-No se cargaban correctamente las fotos de los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34047163 )
+## [1.0.1] - GENERAL- 2021-01-05 
+
+
+### Agregado 
+Se hace script # x0045  >  EscribrirEntidadINX para actualizar a diario el campo Entidad Gestion.
+  
+### Cambiado 
+Se mejoro la performance del campo Entidad Gestion.
+Se audita el campo Entidad Gestion
  
-
-## [iRis Warp 1.0] - 2021-01-04 
-
+### Arreglado 
+No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 ) y  ( https://sagai.jitbit.com/helpdesk/Ticket/34047163 )
+  
   
 
- 
+## [iRis Warp 1.0.0] - 2021-01-04 
+
 
 Se accede mediante la aplicación Claris(FileMaker). Conexión mediante VPN a los servidores de SAGAI, desde el host 10.200.1.112 en el cual se encuentra la aplicación “Iris_warp”. 
 El usuario debe: 
@@ -31,22 +39,6 @@ Se desplegarán todas las aplicaciones que pertenecen al anfitrión, buscar “i
 
 La aplicación ya está configurada en Favoritos para su rápido acceso.  
 
- 
-
-## [1.0.1] - GENERAL- 2021-01-05 
- 
-
-### Agregado 
-Se hace script # x0045  >  EscribrirEntidadINX para actualizar a diario el campo Entidad Gestion.
-  
-### Cambiado 
-Se mejoro la performance del campo Entidad Gestion.
-Se audita el campo Entidad Gestion
- 
-### Arreglado 
-No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 )
-  
- 
 
 ## [1.0.0] - GENERAL- 2020-12-18 
 
