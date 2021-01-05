@@ -9,7 +9,8 @@ Se hace script # x0045  >  EscribrirEntidadINX para actualizar a diario el campo
 ### Cambiado 
 Se mejoro la performance del campo Entidad Gestion.
 Se audita el campo Entidad Gestion
- 
+Los reportes de Saldos salen totales o mayor o igual a $1 ( https://sagai.jitbit.com/helpdesk/Ticket/32264365 )
+
 ### Arreglado 
 No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 ) y  ( https://sagai.jitbit.com/helpdesk/Ticket/34047163 )
 
