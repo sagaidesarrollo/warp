@@ -28,7 +28,7 @@ La aplicación ya está configurada en Favoritos para su rápido acceso.
 
  
 
-## [1.0.1] - GENERAL- 2021-01-04 
+## [1.0.1] - GENERAL- 2021-01-05 
  
 
 ### Agregado 
