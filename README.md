@@ -1,4 +1,9 @@
+## [iRis Warp 1.0.1] - 2021-01-05
+
+### Arreglado 
+No se cargaban correctamente las fotos de los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34047163 )
  
+
 ## [iRis Warp 1.0] - 2021-01-04 
 
   
