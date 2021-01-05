@@ -13,7 +13,7 @@ Se audita el campo Entidad Gestion
 ### Arreglado 
 No se cargaban correctamente los no identificados ( https://sagai.jitbit.com/helpdesk/Ticket/34022001 ) y  ( https://sagai.jitbit.com/helpdesk/Ticket/34047163 )
 
-###Deprecado
+### Deprecado
 Script x0006  >  Actualizacion Entidad Pagadora
   
 
