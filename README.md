@@ -32,6 +32,7 @@
 - Se unificó el formato de los PDFs ( https://sagai.jitbit.com/helpdesk/Ticket/33835302 )
 - Se agregó el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
 - Se sacaron del PDF las liquidaciones con importe menor a 0 ( https://sagai.jitbit.com/helpdesk/Ticket/33861037 )
+- Si la persona tiene doble mandato o no entidad, se pone como No Pagar (99-5) ( https://sagai.jitbit.com/helpdesk/Ticket/32301118 )
 
 
 ### Deprecado
