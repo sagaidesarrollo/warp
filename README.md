@@ -31,7 +31,7 @@
 - Se calculaba incorrectamente el pais debido a un cambio en el nombre de los campos de la table obrPaises (https://sagai.jitbit.com/helpdesk/Ticket/34079072)
 - Se unificó el formato de los PDFs ( https://sagai.jitbit.com/helpdesk/Ticket/33835302 )
 - Se agregó el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
-- Se agregó el valor de devolución por reclamo en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/33861037 )
+- Se sacaron del PDF las liquidaciones con importe menor a 0 ( https://sagai.jitbit.com/helpdesk/Ticket/33861037 )
 
 
 ### Deprecado
