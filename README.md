@@ -9,6 +9,7 @@
 
 ### Arreglado 
 No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
+No se cargaban correctamente los interpretes en al hacer obra global ( https://sagai.jitbit.com/helpdesk/Ticket/34051060 )
 
 ### Deprecado
 Script x0006  >  Actualizacion Entidad Pagadora
