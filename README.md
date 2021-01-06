@@ -14,16 +14,16 @@
    - Script 335
   
  - Para que vayan al layout que corresponde:
-   - @liquidarObraManual - creacionDePDF
-   - @liquidarObra - creacionDePDF
-   - Generar PDF Liq
-   - Z-99@liquidarObra - creacionDePDF de INXLIQ
-   - @liquidarObra - creacionDePDF INTERNACIONAL
-   - 0221 > Imprimir Derechos
-   - 0222 > PDF Liquidaciones Obras
-   - 0222 > PDF Obra
-   - 0234 > View Cta Cte Detail Copy
-   - 0342 > ExportarLQ
+   - Script: @liquidarObraManual - creacionDePDF
+   - Script: @liquidarObra - creacionDePDF
+   - Script: Generar PDF Liq
+   - Script: Z-99@liquidarObra - creacionDePDF de INXLIQ
+   - Script: @liquidarObra - creacionDePDF INTERNACIONAL
+   - Script: 0221 > Imprimir Derechos
+   - Script: 0222 > PDF Liquidaciones Obras
+   - Script: 0222 > PDF Obra
+   - Script: 0234 > View Cta Cte Detail Copy
+   - Script: 0342 > ExportarLQ
   
 ### Arreglado 
 - No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
