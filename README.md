@@ -28,7 +28,10 @@
 ### Arreglado 
 - No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
 - No se cargaban correctamente los interpretes en al hacer obra global ( https://sagai.jitbit.com/helpdesk/Ticket/34051060 )
-- Se calculaba incorrectamente el pais debido a un cambio en el nombre de los campos de la table obrPaises (https://sagai.jitbit.com/helpdesk/Ticket/34079072) 
+- Se calculaba incorrectamente el pais debido a un cambio en el nombre de los campos de la table obrPaises (https://sagai.jitbit.com/helpdesk/Ticket/34079072)
+- Se unificó el formato de los PDFs ( https://sagai.jitbit.com/helpdesk/Ticket/33835302 )
+- Se agrego el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
+
 
 ### Deprecado
 - Script x0006  >  Actualizacion Entidad Pagadora
