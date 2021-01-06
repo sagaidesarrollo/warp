@@ -6,8 +6,10 @@
 ### Agregado 
 
 ### Cambiado 
-  - Script 311 por cambio de nombres en campos de tabla obrPaises
-  - Script 312 por cambio de nombres en campos de tabla obrPaises
+  - Por cambio de nombres en campos de tabla obrPaises
+  -- Script 311
+  -- Script 312 
+  -- Script 335 
   
 ### Arreglado 
 - No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
