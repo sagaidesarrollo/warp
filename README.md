@@ -1,7 +1,19 @@
 ## [iRis Warp 1.0.x]
 
-## [1.0.1] - GENERAL- 2021-01-05 
+## [1.0.2] - GENERAL- 2021-01-06 
 
+
+### Agregado 
+  
+### Cambiado 
+
+### Arreglado 
+No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
+
+### Deprecado
+Script x0006  >  Actualizacion Entidad Pagadora
+
+## [1.0.1] - GENERAL- 2021-01-05 
 
 ### Agregado 
 Se hace script # x0045  >  EscribrirEntidadINX para actualizar a diario el campo Entidad Gestion.
