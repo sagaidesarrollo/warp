@@ -8,10 +8,10 @@
 
 ### Cambiado 
  - Por cambio de nombres en campos de tabla obrPaises
-  - Script 311
-  - Script 318
-  - Script 312 
-  - Script 335
+   - Script 311
+   - Script 318
+   - Script 312 
+   - Script 335
   
  - Para que vayan al layout que corresponde:
    - @liquidarObraManual - creacionDePDF
