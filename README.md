@@ -7,7 +7,7 @@
 - Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - RepartoV5
 
 ### Cambiado 
- - Por cambio de nombres en campos de tabla obrPaises
+ - Por cambió de nombres en campos de tabla obrPaises
    - Script 311
    - Script 318
    - Script 312 
@@ -30,7 +30,8 @@
 - No se cargaban correctamente los interpretes en al hacer obra global ( https://sagai.jitbit.com/helpdesk/Ticket/34051060 )
 - Se calculaba incorrectamente el pais debido a un cambio en el nombre de los campos de la table obrPaises (https://sagai.jitbit.com/helpdesk/Ticket/34079072)
 - Se unificó el formato de los PDFs ( https://sagai.jitbit.com/helpdesk/Ticket/33835302 )
-- Se agrego el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
+- Se agregó el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
+- Se agregó el valor de devolución por reclamo en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/33861037 )
 
 
 ### Deprecado
