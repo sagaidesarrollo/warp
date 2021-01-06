@@ -3,14 +3,27 @@
 ## [1.0.2] - GENERAL- 2021-01-06 
 
 
-### Agregado 
+### Agregado
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - RepartoV5
 
 ### Cambiado 
-  - Por cambio de nombres en campos de tabla obrPaises
+ - Por cambio de nombres en campos de tabla obrPaises
   -- Script 311
   -- Script 318
--- Script 312 
-  -- Script 335 
+  -- Script 312 
+  -- Script 335
+  
+ - Para que vayan al layout que corresponde:
+   - @liquidarObraManual - creacionDePDF
+   - @liquidarObra - creacionDePDF
+   - Generar PDF Liq
+   - Z-99@liquidarObra - creacionDePDF de INXLIQ
+   - @liquidarObra - creacionDePDF INTERNACIONAL
+   - 0221 > Imprimir Derechos
+   - 0222 > PDF Liquidaciones Obras
+   - 0222 > PDF Obra
+   - 0234 > View Cta Cte Detail Copy
+   - 0342 > ExportarLQ
   
 ### Arreglado 
 - No se cargaban correctamente los interpretes de las series ( https://sagai.jitbit.com/helpdesk/Ticket/34056536 )
@@ -20,6 +33,13 @@
 ### Deprecado
 - Script x0006  >  Actualizacion Entidad Pagadora
 - Script @DuplicarObra
+
+### Eliminado
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - PDF - Reparto
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - PDF Internacional
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - PDF Copy
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - PDF OSX
+- Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - PDF
 
 ## [1.0.1] - GENERAL- 2021-01-05 
 
