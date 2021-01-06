@@ -13,8 +13,8 @@
 - Se calculaba incorrectamente el pais debido a un cambio en el nombre de los campos de la table obrPaises (https://sagai.jitbit.com/helpdesk/Ticket/34079072) 
 
 ### Deprecado
-Script x0006  >  Actualizacion Entidad Pagadora
-Script @DuplicarObra
+- Script x0006  >  Actualizacion Entidad Pagadora
+- Script @DuplicarObra
 
 ## [1.0.1] - GENERAL- 2021-01-05 
 
