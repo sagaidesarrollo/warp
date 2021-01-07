@@ -11,6 +11,9 @@
 - 0501  >  IniciarFusion ; para poder incorporar la fusion de dolares
   
 ### Arreglado 
+- Emisiones desordenadas al exportar ( https://sagai.jitbit.com/helpdesk/Ticket/33827990 ):
+  - Script: 0348  >  PDF Emisiones de Obra
+  - Script: 0348  >  PDF Emisiones de Obra Sin Importes
 
 
 ### Deprecado
