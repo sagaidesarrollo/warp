@@ -4,7 +4,7 @@
 ## [1.0.3] - GENERAL- 2021-01-07 
 
 ### Agregado
-- 0501  >  MigrarDolarizacion ( https://sagai.jitbit.com/helpdesk/Ticket/33527224 )  
+- 0501  >  MigrarDolarizacion ( https://sagai.jitbit.com/helpdesk/Ticket/33527224 )  y ( https://sagai.jitbit.com/helpdesk/Ticket/32234253 )
 
 ### Cambiado 
 - Script 0501  >  MigrarObras ; para reparacion de contexto
