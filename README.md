@@ -7,7 +7,7 @@
 
 
 ### Cambiado 
-
+- Script 0501  >  MigrarObras para reparacion de contexto
   
 ### Arreglado 
 
