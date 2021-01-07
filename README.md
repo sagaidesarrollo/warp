@@ -1,7 +1,23 @@
 ## [iRis Warp 1.0.x]
 
-## [1.0.2] - GENERAL- 2021-01-06 
 
+## [1.0.2] - GENERAL- 2021-01-07 
+
+### Agregado
+
+
+### Cambiado 
+
+  
+### Arreglado 
+
+
+### Deprecado
+
+
+### Eliminado
+
+## [1.0.2] - GENERAL- 2021-01-06 
 
 ### Agregado
 - Layout: ÷ 0707 - LIQ - liquidacionDeDerechos - RepartoV5
@@ -33,7 +49,6 @@
 - Se agregó el valor obra en el PDF ( https://sagai.jitbit.com/helpdesk/Ticket/34040542 )
 - Se sacaron del PDF las liquidaciones con importe menor a 0 ( https://sagai.jitbit.com/helpdesk/Ticket/33861037 )
 - Si la persona tiene doble mandato o no entidad, se pone como No Pagar (99-5) ( https://sagai.jitbit.com/helpdesk/Ticket/32301118 )
-
 
 ### Deprecado
 - Script x0006  >  Actualizacion Entidad Pagadora
