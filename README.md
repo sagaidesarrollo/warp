@@ -9,6 +9,8 @@
 ### Cambiado 
 - Script 0501  >  MigrarObras ; para reparacion de contexto
 - 0501  >  IniciarFusion ; para poder incorporar la fusion de dolares
+- Revisiones entidades extranjeras ( https://sagai.jitbit.com/helpdesk/Ticket/33536864 ):
+  - Script: 0601  >  NuevaRevision
   
 ### Arreglado 
 - Emisiones desordenadas al exportar ( https://sagai.jitbit.com/helpdesk/Ticket/33827990 ):
