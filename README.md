@@ -6,6 +6,7 @@
 
 ### Cambiado
 - Se renombro el script: "@Emisiones Interprete"  -->  "0266  >  Emisiones Interprete"
+- Se cambio el comportamiento del dropdown de "ENTIDADES > Documentos" ( https://sagai.jitbit.com/helpdesk/Ticket/34182326 )
 
 ### Arreglado 
 - No exporta solo las emisiones de las obras marcadas ( https://sagai.jitbit.com/helpdesk/Ticket/34250327 ):
