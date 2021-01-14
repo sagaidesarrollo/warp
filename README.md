@@ -1,34 +1,25 @@
 ## [iRis Warp 1.0.x]
 
-## [1.0.5] - GENERAL- 2021-01-14
+## [1.0.4] - GENERAL- 2021-01-14
 
 ### Agregado 
 
 ### Cambiado
 - Se renombro el script: "@Emisiones Interprete"  -->  "0266  >  Emisiones Interprete"
 - Se cambio el comportamiento del dropdown de "ENTIDADES > Documentos" ( https://sagai.jitbit.com/helpdesk/Ticket/34182326 )
+- Se agregaron los campos de comex_BancoPais en INX y Apo ( https://sagai.jitbit.com/helpdesk/Ticket/34280809 ) 
+- Se modifico el script 1002  >  Sincronizar interpretes Subrutina y 1003  >  Enviar apoderados en interfaz ( https://sagai.jitbit.com/helpdesk/Ticket/34280809 )
 
 ### Arreglado 
 - No exporta solo las emisiones de las obras marcadas ( https://sagai.jitbit.com/helpdesk/Ticket/34250327 ):
-  - Script: 0266  >  Emisiones Interprete
-
-### Deprecado
-
-### Eliminado
-
-## [1.0.4] - GENERAL- 2021-01-07 
-
-### Agregado
-
-### Cambiado 
-
-### Arreglado 
+- Script: 0266  >  Emisiones Interprete
 - Script 407 - Consolidacion de obras ( https://sagai.jitbit.com/helpdesk/Ticket/34101494 )
 
+
 ### Deprecado
 
-
 ### Eliminado
+
 
 ## [1.0.3] - GENERAL- 2021-01-07 
 
