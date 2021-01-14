@@ -1,5 +1,19 @@
 ## [iRis Warp 1.0.x]
 
+## [1.0.5] - GENERAL- 2021-01-14
+
+### Agregado 
+
+### Cambiado
+- Se renombro el script: "@Emisiones Interprete"  -->  "0266  >  Emisiones Interprete"
+
+### Arreglado 
+- No exporta solo las emisiones de las obras marcadas ( https://sagai.jitbit.com/helpdesk/Ticket/34250327 ):
+  - Script: 0266  >  Emisiones Interprete
+
+### Deprecado
+
+### Eliminado
 
 ## [1.0.4] - GENERAL- 2021-01-07 
 
