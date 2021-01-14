@@ -1,6 +1,20 @@
 ## [iRis Warp 1.0.x]
 
 
+## [1.0.4] - GENERAL- 2021-01-07 
+
+### Agregado
+
+### Cambiado 
+
+### Arreglado 
+- Script 407 - Consolidacion de obras ( https://sagai.jitbit.com/helpdesk/Ticket/34101494 )
+
+### Deprecado
+
+
+### Eliminado
+
 ## [1.0.3] - GENERAL- 2021-01-07 
 
 ### Agregado
