@@ -1,5 +1,20 @@
 ## [iRis Warp 1.0.x]
 
+## [1.0.5] - GENERAL- 2021-01-15
+
+### Agregado 
+- Se agrego un layout para que muestre los importes con dolarizacion ( https://sagai.jitbit.com/helpdesk/Ticket/34306701 ) 
+
+### Cambiado
+
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
+
+
 ## [1.0.4] - GENERAL- 2021-01-14
 
 ### Agregado 
