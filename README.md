@@ -4,6 +4,8 @@
 
 ### Agregado 
 - Se agrego un layout para que muestre los importes con dolarizacion ( https://sagai.jitbit.com/helpdesk/Ticket/34306701 ) 
+- Se agrego un script "Export" en iris_warp_schedule para pasar las emisiones a legacy ( https://sagai.jitbit.com/helpdesk/Ticket/34251974 )
+- Se agrego el campo exportado en ScheduleDB ( https://sagai.jitbit.com/helpdesk/Ticket/34251974 )
 
 ### Cambiado
 
