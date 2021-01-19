@@ -1,5 +1,20 @@
 ## [iRis Warp 1.0.x]
 
+
+## [1.0.6] - GENERAL- 2021-01-19
+
+### Agregado 
+
+### Cambiado
+- Se modifico el script 221 para excluir las liquidaciones que no esten asociadas a una obra ( https://sagai.jitbit.com/helpdesk/Ticket/34353707 ) 
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
+
+
 ## [1.0.5] - GENERAL- 2021-01-15
 
 ### Agregado 
