@@ -1,5 +1,20 @@
 ## [iRis Warp 1.0.x]
 
+## [1.0.7] - GENERAL- 2021-02-08
+
+### Agregado 
+
+### Cambiado
+- Error al generar archivo de revision ( https://sagai.jitbit.com/helpdesk/Ticket/34403297 ) 
+  - Script: 0607  >  ImprimirRE
+  - Script: 0607  >  ImprimirRE proceed
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
+
 
 ## [1.0.6] - GENERAL- 2021-01-19
 
