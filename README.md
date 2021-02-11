@@ -1,5 +1,21 @@
 ## [iRis Warp 1.0.x]
 
+
+## [1.0.8] - GENERAL- 2021-02-11
+
+### Agregado 
+- Reporte automatico de los martes de afip no pagar para socios (https://sagai.jitbit.com/helpdesk/Ticket/34822922)
+  - Script: SOC001 - No pagar AFIP Saldo
+
+### Cambiado
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
+
+
 ## [1.0.7] - GENERAL- 2021-02-08
 
 ### Agregado 
