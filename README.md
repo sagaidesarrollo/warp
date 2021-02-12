@@ -1,5 +1,20 @@
 ## [iRis Warp 1.0.x]
 
+## [1.0.9] - GENERAL- 2021-02-11
+
+### Agregado 
+
+### Cambiado
+- Se mejoro la performance del divisor de emisiones para que funcione rapido via VPN ( https://sagai.jitbit.com/helpdesk/Ticket/34966863 )
+- Se mejoro la performance al momento de filtrar un interprete por obra ( https://sagai.jitbit.com/helpdesk/Ticket/34407516 )
+- Se modifico el formato del PDF a entregar a los socios, mostrando ahora los importes negativos asi como cambiando los nombres de las columnas ( https://sagai.jitbit.com/helpdesk/Ticket/34647693 )
+- Se cambio el flujo de pesificacion de los socios. Se pesifica a las 5pm y se pasa a Softland a la noche. Ademas se cambiaron las etiquetas de los campos para que quede mas claro
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
 
 ## [1.0.8] - GENERAL- 2021-02-11
 
