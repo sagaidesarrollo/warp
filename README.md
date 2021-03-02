@@ -9,7 +9,7 @@
 - Se quitó la restricción de generar revisiones a No Socios ( https://sagai.jitbit.com/helpdesk/Ticket/35378066 ) 
 
 ### Arreglado 
-
+- Las fichas se podian cerrar a pesar de los errores ( https://sagai.jitbit.com/helpdesk/Ticket/35326412 )
 ### Deprecado
 
 ### Eliminado
