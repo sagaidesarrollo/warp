@@ -1,5 +1,18 @@
 ## [iRis Warp 1.0.x]
 
+## [1.0.10] - GENERAL- 2021-03-02
+
+### Agregado 
+
+### Cambiado
+- Se cambió la visualizacion en los PDFs y en Cuenta Corriente "preview" del importe Negativo. ( https://sagai.jitbit.com/helpdesk/Ticket/35381612 )
+
+### Arreglado 
+
+### Deprecado
+
+### Eliminado
+
 ## [1.0.9] - GENERAL- 2021-02-11
 
 ### Agregado 
