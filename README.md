@@ -6,6 +6,7 @@
 
 ### Cambiado
 - Se cambió la visualizacion en los PDFs y en Cuenta Corriente "preview" del importe Negativo. ( https://sagai.jitbit.com/helpdesk/Ticket/35381612 )
+- Se quitó la restricción de generar revisiones a No Socios ( https://sagai.jitbit.com/helpdesk/Ticket/35378066 ) 
 
 ### Arreglado 
 
